@@ -69,7 +69,7 @@ L1:      DEC DX
 
 DATA:    DB 09H, 05H, 06H, 0AH ; Array of data
 ```
-## OUTPUT OF THE PROGRAM:
+## OUTPUT OF THE PROGRAM: (https://github.com/balakjsec-oss/STEPPER-MOTOR-INTERFACING/blob/0c5d374cdd14c56228f8883541d2778d4716eba9/stepper%20motor%20output.jpg)
 
 ## RESULT
 
